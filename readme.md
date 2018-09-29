@@ -7,7 +7,9 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 ### 2014:
 
 #### Setembro:
-* [Controle de Versões com Git - Ronaldo F. Lima - 16/09/2014](slides/2014/09)
+* Controle de Versões com Git - Ronaldo F. Lima - 16/09/2014
+  * [Artigo Git Extras](slides/2014/09/git-extras.md)
+  * [Artigo Git Hooks](slides/2014/09/git-hooks.md)
 
 ### 2015:
 
