@@ -4,6 +4,11 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 ## Índice
 
+### 2014:
+
+#### Setembro:
+* [Controle de Versões com Git - Ronaldo F. Lima - 16/09/2014](slides/2014/09)
+
 ### 2015:
 
 #### Maio:
