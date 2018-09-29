@@ -8,7 +8,7 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
   * Agosto:
     * [C é Doido - Ronaldo F. Lima - 19/08/2015](slides/2015/08/2015-08-19-cedoido/README.md)
   * Setembro:
-    * [Turbinando o Google Drive com o Apps Script - Ivan Scher/Daniela Bragança](slides/2015/09/google-apps-script.pptx)
+    * [Turbinando o Google Drive com o Apps Script - Ivan Scher/Daniela Bragança - 30/09/2015](slides/2015/09/google-apps-script.pptx)
 * 2018:
   * Março:
     * [O que há de novo no React@16 - João Lavoier - 27/03/2018](slides/2018/03/o-que-ha-de-novo-no-react-16.pdf)
