@@ -1,4 +1,4 @@
-# Git Hooks: o que são e por que você provavelmente não usará
+# Git Hooks: o que são e como usá-los
 
 Os hooks não são exclusividade do GIT. Em verdade, praticamente todo sistema de
 controle de versões de código moderno tem uma forma de hook. A ideia por trás do
@@ -10,14 +10,11 @@ comentário e verificar se o mesmo segue um determinado formato.
 
 Os hooks são usados normalmente em empresas que implementam um ciclo completo de
 desenvolvimento, com rastreamento de requisitos do documento ao código. Este
-tipo de rastreamento envolve a integraçào das modificações no código com algum
+tipo de rastreamento envolve a integração das modificações no código com algum
 sistema de controle de requisitos ou problemas (issue tracker).
 
 Assim, o hook é usado para lançar no sistema de controle de versões quais as
-alteraçòes que foram feitas em qual arquivo para qual issue. O fato é que com as
-técnicas modernas de desenvolvimento de software, isso está caindo em desuso
-pois eleva o custo do desenvolvimento de sistemas sendo que o benefício é
-mínimo.
+alteraçòes que foram feitas em qual arquivo para qual issue. 
 
 ## Onde estão os hooks
 
@@ -30,26 +27,29 @@ Uma coisa muito importante para se ter em mente: todos os scripts foram
 projetados para execução em algum shell linux ou unix. Porém você pode escrever
 seus hooks em python ou ruby ou na linguagem de scripting da sua preferência.
 
-## Por que você provavelmente não vai usar
+## Cenários comuns de uso
 
-A rastreabilidade de _issues_ em código é uma prática considerada antiquada hoje
-em dia, principalmente por que engessa o processo de desenvolvimento de
-software, tornando-o mais caro. São poucas as empresas que usam essas práticas
-pois exigem a adoção de alguma metodologia que exige alto grau de documentação
-de todo o processo, como o CMM.
+Existem alguns cenários interessantes que podem usar o git hook como uma
+ferramenta de integração e, até mesmo, validação. Por exemplo, digamos que o seu
+projeto tem um padrão bem estabelecido de comentários. Um hook de pré-commit
+pode validar o conteúdo dos comentários antes de realizar o commit, impedindo a
+operação se o comentário estiver fora de padrão.
 
-A grande maioria das software houses e empresas que têm serviços de
-desenvolvimento não usam tal grau de rastreabilidade e, portanto, não há
-necessidade de algo tão apurado. Mesmo no caso de padronizações de comentários,
-é mais fácil e rápido confiar no developer do que ter de escrever shell scripts
-complexos para validar os comentários.
+Um outro uso refere-se à rastreabilidade: você pode integrar um commit com uma
+ferramenta de bug tracking, armazenando na ferramenta de bug tracking quais
+arquivos foram alterados para aquele commit.
 
-Assim, provavelmente você não vai usar os hooks, principalmente por que trazem
-pouco benefício ao seu dia-a-dia.
+Há ainda um outro cenário no qual você pode forçar a indentação do código para
+determinado formato, chamando um code styler em um hook de pré-commit para
+garantir que o código sempre será carregado no repositório de acordo com os
+padrões da empresa.
+
+Além de validações, é possível usar os hooks para integrações com sistemas de
+compilação e automações dos mais diversos tipos e necessidades.
 
 # Mais Informações
 
-Se você tem realmente necessidade de criar um hook, vale a pena dar uma lida
-[neste artigo](http://git-scm.com/book/pt-br/Customizando-o-Git-Hooks-do-Git). Os
+Vale a pena dar uma lida [neste
+artigo](http://git-scm.com/book/pt-br/Customizando-o-Git-Hooks-do-Git). Os
 principais hooks estão cobertos e há explicação de qual parâmetro cada um deles
 utiliza-se para validar os commits e outras operaçòes do GIT.
