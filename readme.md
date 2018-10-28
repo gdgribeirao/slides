@@ -48,3 +48,8 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 * [Como é trabalhar com Wordpress? - Pedro Pizzo de Paula - 18/09/2018](2018/09/wordpress.pdf)
 * [Actions para Google Assistant: seu assistente pessoal - Eduardo Heitor - 25/09/2018](2018/09/actions-para-google-assistant.pdf)
+
+#### Outubro:
+
+* [Hacktoberfest: Open Source - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-open-source.pdf)
+* [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
