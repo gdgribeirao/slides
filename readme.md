@@ -52,4 +52,6 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 #### Outubro:
 
 * [Hacktoberfest: Open Source - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-open-source.pdf)
+* [Hacktoberfest: Contribuindo com projetos sem programar - Caio Tarifa - 20/10/2018](https://slides.com/caiotarifa/contribuindo-com-projetos-sem-programar/)
+* [Hacktoberfest: Mantendo Padrões - Caio Tarifa - 20/10/2018](https://slides.com/caiotarifa/mantendo-padres/)
 * [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
