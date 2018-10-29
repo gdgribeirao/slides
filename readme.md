@@ -58,8 +58,6 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 # GDG nas Redes!!
 
-## Facebook
-
 <a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="2018/10/facebook.jpg" alt="Facebook do GDG Ribeirão Preto" width="25" />/gdgribeiraopreto</a>
 
 <a href="https://www.meetup.com/pt-BR/gdgribeirao/" target="_blank"><img src="2018/10/meetup.png" alt="Facebook do GDG Ribeirão Preto" width="40" />/gdgribeirao</a>
