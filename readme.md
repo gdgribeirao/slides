@@ -53,3 +53,15 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 * [Hacktoberfest: Open Source - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-open-source.pdf)
 * [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
+
+------
+
+# GDG nas Redes!!
+
+## Facebook
+
+<a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="2018/10/facebook.jpg" alt="Facebook do GDG Ribeirão Preto" width="25" />/gdgribeiraopreto</a>
+
+<a href="https://www.meetup.com/pt-BR/gdgribeirao/" target="_blank"><img src="2018/10/meetup.png" alt="Facebook do GDG Ribeirão Preto" width="40" />/gdgribeirao</a>
+
+<a href="bit.ly/gdgrp" target="_blank"><img src="2018/10/whatsapp-logo-1.png" alt="Facebook do GDG Ribeirão Preto" width="40" /> bit.ly/gdgrp</a>
