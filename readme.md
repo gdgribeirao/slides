@@ -52,8 +52,20 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 #### Outubro:
 
 * [Hacktoberfest: Open Source - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-open-source.pdf)
+* [Hacktoberfest: Contribuindo com projetos sem programar - Caio Tarifa - 20/10/2018](https://slides.com/caiotarifa/contribuindo-com-projetos-sem-programar/)
+* [Hacktoberfest: História do Git - Cibele Yumi - 20/10/2018](2018/10/hacktoberfest-historia-git.pdf)
+* [Hacktoberfest: Mantendo Padrões - Caio Tarifa - 20/10/2018](https://slides.com/caiotarifa/mantendo-padres/)
 * [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
+* [Análise de Requisitos de Software - Carlos Cacau - 30/10/2018](2018/10/analise-de-requisitos.pdf)
 
 #### Novembro:
 
 * [Entendendo paralelismo e concorrência - Ronaldo F. Lima - 06/11/2019](2018/11/entendendo-paralelismo-e-concorrencia.pdf)
+
+# GDG nas Redes!!
+
+<a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="./facebook.png" alt="Facebook do GDG Ribeirão Preto" width="20" />/gdgribeiraopreto</a>
+
+<a href="https://www.meetup.com/pt-BR/gdgribeirao/" target="_blank"><img src="./meetup.png" alt="Facebook do GDG Ribeirão Preto" width="50" />/gdgribeirao</a>
+
+<a href="bit.ly/gdgrp" target="_blank"><img src="./whatsapp.png" alt="Facebook do GDG Ribeirão Preto" width="40" /> bit.ly/gdgrp</a>
