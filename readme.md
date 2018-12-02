@@ -53,3 +53,7 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 * [Hacktoberfest: Open Source - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-open-source.pdf)
 * [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
+
+#### Novembro:
+
+* [Entendendo paralelismo e concorrência - Ronaldo F. Lima - 06/11/2019](2018/11/entendendo-paralelismo-e-concorrencia.pdf)
