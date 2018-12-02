@@ -58,7 +58,9 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 * [Hacktoberfest: Gestão de Configuração - Ronaldo F. Lima - 20/10/2018](2018/10/hacktoberfest-configuration-management.pdf)
 * [Análise de Requisitos de Software - Carlos Cacau - 30/10/2018](2018/10/analise-de-requisitos.pdf)
 
-------
+#### Novembro:
+
+* [Entendendo paralelismo e concorrência - Ronaldo F. Lima - 06/11/2019](2018/11/entendendo-paralelismo-e-concorrencia.pdf)
 
 # GDG nas Redes!!
 
