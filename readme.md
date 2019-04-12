@@ -62,6 +62,14 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 * [Entendendo paralelismo e concorrência - Ronaldo F. Lima - 06/11/2019](2018/11/entendendo-paralelismo-e-concorrencia.pdf)
 
+    
+
+### 2019
+
+#### Abril
+
+* [Introdução ao Python - Ronaldo F. Lima - 11/04/2019](2019/04/2019-04-11_introducao_python.pdf)
+
 # GDG nas Redes!!
 
 <a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="./facebook.png" alt="Facebook do GDG Ribeirão Preto" width="20" />/gdgribeiraopreto</a>
