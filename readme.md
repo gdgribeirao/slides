@@ -69,6 +69,7 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 #### Abril
 
 * [Introdução ao Python - Ronaldo F. Lima - 11/04/2019](2019/04/2019-04-11-introducao_python.pdf)
+* [Começando com Drupal - Igor Barato - 25/04/2019](2019/04/2019-04-25-comecando_com_drupal.pdf)
 
 # GDG nas Redes!!
 
