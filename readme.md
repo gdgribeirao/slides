@@ -71,6 +71,10 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 * [Introdução ao Python - Ronaldo F. Lima - 11/04/2019](2019/04/2019-04-11-introducao_python.pdf)
 * [Começando com Drupal - Igor Barato - 25/04/2019](2019/04/2019-04-25-comecando_com_drupal.pdf)
 
+#### Maio
+
+* [Blockchain & Criptomoedas 101 - Matheus Degiovani - 07/05/2019 (IO19)](2019/05/2019-05-07-blockchain_criptomoedas_101.pdf)
+
 # GDG nas Redes!!
 
 <a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="./facebook.png" alt="Facebook do GDG Ribeirão Preto" width="20" />/gdgribeiraopreto</a>
