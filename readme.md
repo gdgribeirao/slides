@@ -70,7 +70,7 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 #### Julho
 
-* [Introdução à Análise de Sentimentos - Welton Gomes - 13/07/2019](2019/07/2019-07-19-analise-de-sentimentos.pdf)
+* [Tech Talk #2: Introdução à Análise de Sentimentos - Welton Gomes - 13/07/2019](2019/07/2019-07-19-analise-de-sentimentos.pdf)
 
 # GDG nas Redes!!
 
