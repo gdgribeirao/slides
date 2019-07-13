@@ -62,18 +62,19 @@ Repositório dedicado a armazenar os slides dos eventos do **GDG Ribeirão Preto
 
 * [Entendendo paralelismo e concorrência - Ronaldo F. Lima - 06/11/2019](2018/11/entendendo-paralelismo-e-concorrencia.pdf)
 
-    
-
 ### 2019
 
 #### Abril
 
 * [Introdução ao Python - Ronaldo F. Lima - 11/04/2019](2019/04/2019-04-11-introducao_python.pdf)
 
+#### Julho
+
+* [Introdução à Análise de Sentimentos - Welton Gomes - 13/07/2019](2019/07/2019-07-19-analise-de-sentimentos.pdf)
+
 # GDG nas Redes!!
 
-<a href="https://www.facebook.com/gdgribeiraopreto/" target="_blank"><img src="./facebook.png" alt="Facebook do GDG Ribeirão Preto" width="20" />/gdgribeiraopreto</a>
+[![Facebook to GDG Ribeirão Preto](facebook.png)/gdgribeiraopreto](https://www.facebook.com/gdgribeiraopreto/)
+[![Meetup do GDG Ribeirão Preto](meetup.png)/gdgribeirao](https://meetup.com/pt-BR/gdgribeirao)
+[![Grupo do Whatsapp](whatsapp.png)bit.ly/gdgrp](https://bit.ly/gdgrp)
 
-<a href="https://www.meetup.com/pt-BR/gdgribeirao/" target="_blank"><img src="./meetup.png" alt="Facebook do GDG Ribeirão Preto" width="50" />/gdgribeirao</a>
-
-<a href="bit.ly/gdgrp" target="_blank"><img src="./whatsapp.png" alt="Facebook do GDG Ribeirão Preto" width="40" /> bit.ly/gdgrp</a>
